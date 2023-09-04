@@ -1,0 +1,4 @@
+Hadamard gate
+
+Qubits - Entaglement , Teleportations
+Deutch Josza algo , shors , grover algo
