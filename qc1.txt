@@ -1,7 +1,7 @@
 Hadamard gate
 
 Qubits - Superposition , Entaglement , Teleportations
-Qubits - vector representation
+Qubits - vector representation , schrodinger wave equations
 Deutch Josza algo , shors , grover algo
 
 Qsharp
