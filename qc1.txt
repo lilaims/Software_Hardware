@@ -1,6 +1,7 @@
 Hadamard gate
 
-Qubits - Entaglement , Teleportations
+Qubits - Superposition , Entaglement , Teleportations
+Qubits - vector representation
 Deutch Josza algo , shors , grover algo
 
 Qsharp
